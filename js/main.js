@@ -148,24 +148,24 @@
 
 // ejemplo
 
-function sumar(){
-    let numeroA = 35
-    let numeroB = 30
-    let total = numeroA + numeroB
+// function sumar(){
+//     let numeroA = 35
+//     let numeroB = 30
+//     let total = numeroA + numeroB
     
-    return total
-}
+//     return total
+// }
 
-let calculo = sumar()
-let conIva = calculo*1.19
-console.log (conIva)
+// let calculo = sumar()
+// let conIva = calculo*1.19
+// console.log (conIva)
 
 
-const restar = function(){
-    let numeroA = 14
-    let numeroB = 12
-    let resultado = numeroA - numeroB
-    console.log(resultado)
-}
+// const restar = function(){
+//     let numeroA = 14
+//     let numeroB = 12
+//     let resultado = numeroA - numeroB
+//     console.log(resultado)
+// }
 
-restar()
+// restar()
