@@ -1,1 +1,2 @@
-console.log("Hola Mundo, curso de Youtube")
+console.log("Hola Mundo, curso de Youtube");
+// variables 
